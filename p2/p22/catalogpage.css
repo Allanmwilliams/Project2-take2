@@ -1,0 +1,10 @@
+body{
+    background-color: gold;
+    
+    }
+    h1{
+    color: black;
+    }
+    body, .center{
+    text-align: center;
+    }

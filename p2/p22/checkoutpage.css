@@ -1,0 +1,12 @@
+li{
+    display: inline;
+    margin-right: 25px;
+}
+body{
+    background: url("chec.jpeg");
+    background-size: cover;
+    font-family: sans-serif;
+}
+p,legend,h3{
+    color: blue;
+}
